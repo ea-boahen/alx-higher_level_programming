@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 # 10-best_score.py
-# williamsHack <williamyawdickson1998@gmail.com>
 
 
 def best_score(a_dictionary):
