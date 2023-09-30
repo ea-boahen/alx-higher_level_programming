@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 8-simple_delete.py
-# williamsHack <williamyawdickson1998@gmail.com>
+# ea.boahen@gmail.com <Enoch Amankwah Boahen>
 
 
 def simple_delete(a_dictionary, key=""):
