@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 # 12-roman_to_int.py
-# williamsHack <williamyawdickson1998@gmail.com>
 
 def to_subtract(list_num):
     to_sub = 0
