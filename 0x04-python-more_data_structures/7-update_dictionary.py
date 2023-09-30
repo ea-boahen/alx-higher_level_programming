@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 7-update_dictionary.py
-# williamsHack <williamyawdickson1998@gmail.com>
+# ea.boahen@gmail.com <Enoch Amankwah Boahen>
 
 
 def update_dictionary(a_dictionary, key, value):
