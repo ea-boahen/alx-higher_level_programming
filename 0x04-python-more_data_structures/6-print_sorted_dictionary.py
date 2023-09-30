@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 6-print_sorted_dictionary.py
-# williamsHack <williamyawdickson1998@gmail.com>
+# ea.boahen@gmail.com <Enoch Amankwah Boahen>
 
 
 def print_sorted_dictionary(a_dictionary):
