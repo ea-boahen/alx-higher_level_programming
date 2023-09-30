@@ -1,7 +1,5 @@
 #!/usr/bin/python3
 # 100-weight_average.py
-# williamsHack <williamyawdickson1998@gmail.com>
-
 
 def weight_average(my_list=[]):
     """Return the weighted average of all integers in a list of tuples."""
