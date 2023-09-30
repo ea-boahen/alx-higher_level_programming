@@ -1,6 +1,6 @@
 /*
  * File: 103-python.c
- * Auth: willimsHack
+ * Auth: ea.boahen
  */
 
 #include <Python.h>
